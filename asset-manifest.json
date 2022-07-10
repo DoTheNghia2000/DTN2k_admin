@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DTN2k_admin/static/css/main.174a5acb.css",
+    "main.js": "/DTN2k_admin/static/js/main.dc9c608c.js",
+    "static/media/img2.jpg": "/DTN2k_admin/static/media/img2.74dad9783cc8c0af0192.jpg",
+    "index.html": "/DTN2k_admin/index.html",
+    "main.174a5acb.css.map": "/DTN2k_admin/static/css/main.174a5acb.css.map",
+    "main.dc9c608c.js.map": "/DTN2k_admin/static/js/main.dc9c608c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.174a5acb.css",
+    "static/js/main.dc9c608c.js"
+  ]
+}
